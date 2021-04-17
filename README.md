@@ -28,5 +28,3 @@
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
 <br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=orti10&show_icons=true&title_color=fff&icon_color=28cee0&text_color=9f9f9f&bg_color=151515&hide_border=true&include_all_commits=false&count_private=true)
