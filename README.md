@@ -3,8 +3,6 @@
 ![](https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif)
 
 
-<img src="" alt="banner that says Ortal Hanoch - software Developer">
-
 #### 💼 *Computer Science student | 3rd year*
 #### 📫 *Contact me here:*  | *E-mail address: ortalh10@gmail.com* |
 
