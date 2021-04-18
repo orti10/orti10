@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub page 🤙 </h1>
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/44768171/115141824-0a3faf00-a047-11eb-8dbf-fa03e7b1dcc0.png">
+<img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
 
 #### 💼 *Computer Science student | 3rd year*
 #### 📫 *Contact me here:*  | *E-mail address: ortalh10@gmail.com* |
