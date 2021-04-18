@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my GitHub page 🤙 </h1>
-<p align="right">
+
 ![](https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif)
- </p>
-<p align="left">
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ortal Hanoch - software Developer">
-</p>
+
+
+<img src="" alt="banner that says Ortal Hanoch - software Developer">
+
 #### 💼 *Computer Science student | 3rd year*
 #### 📫 *Contact me here:*  | *E-mail address: ortalh10@gmail.com* |
 
