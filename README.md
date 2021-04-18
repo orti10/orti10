@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my GitHub page 🤙 </h1>
 
-![](https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif)
-
+<img src="https://user-images.githubusercontent.com/44768171/115141824-0a3faf00-a047-11eb-8dbf-fa03e7b1dcc0.png">
 
 #### 💼 *Computer Science student | 3rd year*
 #### 📫 *Contact me here:*  | *E-mail address: ortalh10@gmail.com* |
@@ -27,4 +26,8 @@
 <a href="https://www.wireshark.org/" title="WireShark"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Wireshark.png" alt="WireShark" width="45" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
+
+![](https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif)
 <br />
+
+
