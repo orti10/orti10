@@ -13,7 +13,7 @@
 
 ## 💻🧰 Languages & Tools:
 <br />
-<a href="https://www.java.com" title="Java"> <img src="https://github.com/Jewgah/MyIcons/blob/master/java.svg" alt="java" width="40" height="40"/>  </a>  
+<a href="#" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="70" height="43"/> </a>
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/Jewgah/MyIcons/blob/master/c.svg" alt="C" width="40" height="40"/>  </a>
 <a href="https://www.cplusplus.com" title="c++"> <img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="c++" width="40" height="40"/></a>
