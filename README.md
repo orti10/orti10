@@ -2,7 +2,7 @@
 
 <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
 
-#### 💼 *Computer Science student | 3rd year*
+#### 💼 *Computer Science student*
 #### 📫 *Contact me here:*  | *E-mail address: ortalh10@gmail.com* |
 
 <p align="left">
