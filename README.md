@@ -24,6 +24,7 @@
 <a href="https://developer.android.com/" title="Android Studio"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="Android Studio" width="40" height="40"/></a>
 <a href="https://www.wireshark.org/" title="WireShark"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Wireshark.png" alt="WireShark" width="45" height="40"/></a>
 <a href="https://he.wikipedia.org/wiki/Microsoft_Windows" title="Windows"> <img src="https://user-images.githubusercontent.com/57855070/100348648-db6d6180-2fef-11eb-8fea-e75047e57b3c.png" alt="Windows" width="40" height="40"/></a>
+<a href="https://www.kali.org/" title="Kali"> <img src="https://github.com/get-icon/geticon/blob/master/icons/kali-logo.svg" alt="Kali" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/> </a>
 
