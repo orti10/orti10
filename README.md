@@ -17,10 +17,11 @@
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="JS" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"> <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://reactjs.org/" title="React"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/" title="NodeJs"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="NodeJs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" title="mongoDB"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/></a>
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/Jewgah/MyIcons/blob/master/c.svg" alt="C" width="40" height="40"/>  </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/Jewgah/MyIcons/blob/master/c.svg" alt="C" width="40" height="40"/></a>
 <a href="https://www.cplusplus.com" title="C++"> <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="C++" width="40" height="40"/></a>
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/>  </a>
 <a href="https://git-scm.com/" title="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40"/>  </a>
