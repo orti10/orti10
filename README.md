@@ -3,7 +3,6 @@
 <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
 
 #### 💼 *BSc Computer Science* | Software Developer |
-#### 📫 *Contact me here:*  | *E-mail address: ortalh10@gmail.com* |
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ortal-hanoch-79233617b/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
