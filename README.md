@@ -2,7 +2,7 @@
 
 <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
 
-#### 💼 *BSc Computer Science* | Software Developer |
+#### 💼 *BSc Computer Science* | FullStack Developer 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ortal-hanoch-79233617b/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
@@ -15,6 +15,9 @@
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="JS" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"> <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/TypeScript" title="TypeScript">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript.svg" alt="TypeScript" width="50" height="50"/>
+</a>
 <a href="https://reactjs.org/" title="React"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/" title="NodeJs"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="NodeJs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" title="mongoDB"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/></a>
@@ -31,6 +34,7 @@
 <a href="https://www.kali.org/" title="Kali"> <img src="https://github.com/get-icon/geticon/blob/master/icons/kali-logo.svg" alt="Kali" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" title="Azure"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50" height="50"/></a>
 
 ![](https://media.giphy.com/media/CV61LRKyQf6P6/giphy.gif)
 <br />
